@@ -16,46 +16,42 @@ Here are some ideas to get you started:
 -->
 # Hey there 👋
 
-I’m Hari Charan Reddy, a CSE student interested in AI, technology, and software development.
+I’m Hari Charan Reddy, a Computer Science student interested in AI, technology, and building things that help me learn by doing.
 
-Currently learning AI / Machine Learning, AI Agents, RAG, Cloud Computing, and Data Structures & Algorithms. I enjoy trying out new tools, working on projects, and learning through practical experience.
+Right now, I’m exploring AI/ML, AI Agents, RAG, Cloud Computing, and DSA. I enjoy trying out new tools, working on projects, and understanding how things actually work instead of just learning them from theory.
 
-This is my space to share the projects I work on, things I learn, and ideas I explore along the way.
+This GitHub is where I share some of the projects, experiments, and things I’m learning along the way.
 
 ---
 
-## Tools & Tech
+## 🛠️ Tools & Tech
 
 - Java, Python, C
 - GitHub
 - Canva
 - AI Tools
+- Currently learning: AI/ML, AI Agents, RAG, Cloud Computing & DSA
 
 ---
 
-## Currently Learning
+## 💡 A Bit About Me
 
-- AI / Machine Learning
-- AI Agents
-- RAG
-- Cloud Computing
-- Data Structures & Algorithms
-
----
-
-## A Bit About Me
-
-- CSE student with an interest in AI and technology
-- Enjoy learning new things and trying new ideas
-- Prefer learning by building and experimenting
-- Interested in becoming an AI Engineer
-- Believe in staying consistent and not giving up when things don't work at first
+- 🎓 CSE student
+- 🤖 Interested in AI and emerging technologies
+- 🔍 Like exploring new tools and ideas
+- 🛠️ Learn mainly through practical work and projects
+- 📚 Always trying to improve my technical skills
+- 🚀 Don’t give up easily — keep trying, learn from mistakes, and improve
 
 ---
 
-## Connect With Me
+## 🎯 What I’m Working Towards
+
+Becoming an AI Engineer and building a strong foundation through learning, projects, and practical experience.
+
+If you’re interested in technology, projects, or just want to discuss something technical, feel free to reach out.
+
+### 📫 Connect with me
 
 - LinkedIn: [Hari Charan Reddy](https://www.linkedin.com/in/julakantiharicharanreddy/)
 - Email: Hcreddy0007@gmail.com
-
-Always open to connecting and talking about anything technical.
