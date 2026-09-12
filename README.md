@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there 👋
-
 I’m Hari Charan Reddy, a Computer Science student interested in AI, technology, and building things that help me learn by doing.
 
 Right now, I’m exploring AI/ML, AI Agents, RAG, Cloud Computing, and DSA. I enjoy trying out new tools, working on projects, and understanding how things actually work instead of just learning them from theory.
