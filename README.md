@@ -14,60 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Hari Charan Reddy
+# Hey there 👋
 
-### CSE Student | Aspiring AI Engineer
+I’m Hari Charan Reddy, a CSE student interested in AI, technology, and software development.
 
-I’m a Computer Science student interested in Artificial Intelligence, software development, and new technologies.
+Currently learning AI / Machine Learning, AI Agents, RAG, Cloud Computing, and Data Structures & Algorithms. I enjoy trying out new tools, working on projects, and learning through practical experience.
 
-I enjoy learning new things, trying new ideas, and improving through practical experience. Most of my learning comes from building projects, exploring new tools, and solving problems along the way.
+This is my space to share the projects I work on, things I learn, and ideas I explore along the way.
 
-### What I'm interested in
+---
 
-- Artificial Intelligence & Machine Learning
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Data Structures & Algorithms
-- Cloud Computing
-- Software Development
+## Tools & Tech
 
-### Currently Learning
-
-- AI Agents
-- RAG
-- Machine Learning
-- Cloud Computing
-- Data Structures & Algorithms
-
-### Tech & Tools
-
-- Java
-- Python
-- C
-- Git & GitHub
+- Java, Python, C
+- GitHub
 - Canva
 - AI Tools
 
-### What I Like Doing
+---
 
-- Building practical projects
-- Exploring AI tools and technologies
-- Learning by experimenting
-- Working on technical ideas
-- Taking part in hackathons and college activities
-- Collaborating on technical projects
+## Currently Learning
 
-### My Goal
+- AI / Machine Learning
+- AI Agents
+- RAG
+- Cloud Computing
+- Data Structures & Algorithms
 
-To grow as an AI Engineer by continuously learning, building useful projects, and gaining practical experience.
+---
 
-> Learn. Build. Improve. Repeat.
+## A Bit About Me
 
-I believe in staying consistent, learning from mistakes, and keeping at it until I get the result I'm looking for.
+- CSE student with an interest in AI and technology
+- Enjoy learning new things and trying new ideas
+- Prefer learning by building and experimenting
+- Interested in becoming an AI Engineer
+- Believe in staying consistent and not giving up when things don't work at first
 
-### Connect With Me
+---
 
-- LinkedIn: Julakanti Hari Charan Reddy
+## Connect With Me
+
+- LinkedIn: [Hari Charan Reddy](https://www.linkedin.com/in/julakantiharicharanreddy/)
 - Email: Hcreddy0007@gmail.com
 
-Always open to connecting, learning, and discussing anything technical.
+Always open to connecting and talking about anything technical.
